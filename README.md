@@ -1,5 +1,5 @@
 ### Hola, I'm Pramod Vishvakarma.👋
-- 👀 I’m interested in Competetive Programming.
+- 👀 I’m interested in Competitive Programming.
 - 🌱 I’m currently learning machine learning.
 - 🌱 Ask me about web development and DSA
 - 💞️ How to reach me: [Linked-in :Pramod Vishvakarma](https://www.linkedin.com/in/pramod-vishvakarma-133304237/).
